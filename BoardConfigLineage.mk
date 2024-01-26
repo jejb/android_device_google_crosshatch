@@ -43,4 +43,4 @@ BOARD_SEPOLICY_DIRS += device/google/crosshatch/sepolicy-lineage/dynamic
 BOARD_SEPOLICY_DIRS += device/google/crosshatch/sepolicy-lineage/vendor
 
 # Verified Boot
-BOARD_AVB_MAKE_VBMETA_IMAGE_ARGS += --flags 1
+BOARD_AVB_MAKE_VBMETA_IMAGE_ARGS += --flags 0
